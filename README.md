@@ -10,3 +10,10 @@
 
 ***bold and italic type of font***
 ~~shwjhfvsdgversg~~
+* cars
+  *kia
+1. otts
+  1. prime
+
+[goo](www.google.com)
+  
